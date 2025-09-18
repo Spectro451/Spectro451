@@ -1,3 +1,72 @@
+###
+
+## Mis Proyectos
+
+<div align="center">
+
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+  <thead>
+    <tr>
+      <th style="text-align:center; padding:10px; background:#f6f8fa; border:1px solid #e1e4e8;">Ideas</th>
+      <th style="text-align:center; padding:10px; background:#f6f8fa; border:1px solid #e1e4e8;">En proceso</th>
+      <th style="text-align:center; padding:10px; background:#f6f8fa; border:1px solid #e1e4e8;">Terminados</th>
+      <th style="text-align:center; padding:10px; background:#f6f8fa; border:1px solid #e1e4e8;">Por mejorar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align:top; padding:12px; border:1px solid #e1e4e8;">
+        <ul>
+          <li>Wiwi Yakumas con backend propio</li>
+        </ul>
+      </td>
+      <td style="vertical-align:top; padding:12px; border:1px solid #e1e4e8;">
+        <ul>
+          <li><a href="https://github.com/Spectro451/KiwiPets" style="text-decoration:none; color:black;">KiwiPets</a></li>
+          <li><a href="https://github.com/Spectro451/KiwiPetsBackEnd" style="text-decoration:none; color:inherit;">BackEnd para KiwiPets</a></li>
+          <li>
+            <a href="https://github.com/Spectro451/Introduccion-Nextjs" style="text-decoration:none; color:inherit;">Curso NextJs</a>
+          </li>
+        </ul>
+      </td>
+      <td style="vertical-align:top; padding:12px; border:1px solid #e1e4e8;">
+        <ul>
+          <li>
+            <a href="https://github.com/Spectro451/Practica-AndroidStudio" style="text-decoration:none; color:inherit;">Practica AndroidStudio</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/Saludos-Chayanne" style="text-decoration:none; color:inherit;">Saludos Chayanne</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/Sistema-inventario-SpringBoot" style="text-decoration:none; color:inherit;">BackEnd Muebleria</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/Prototipo-Pagina-Mangas" style="text-decoration:none; color:inherit;">PaginaMangas</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/Pagina-Mangas-OG" style="text-decoration:none; color:inherit;">Pagina Mangas (pre PHP)</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/Mi-primera-pagina" style="text-decoration:none; color:inherit;">Mi Primera Pagina</a>
+          </li>
+        </ul>
+      </td>
+      <td style="vertical-align:top; padding:12px; border:1px solid #e1e4e8;">
+        <ul>
+          <li><a href="https://github.com/Spectro451/NixOs-Dots" style="text-decoration:none; color:inherit;">NixOs Dots</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+###
+
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spectro451&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spectro451&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -30,7 +99,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.reddit.com/user/Spectro451/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo"  />
   </a>
   <a href="mailto:bastyfarias30@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
