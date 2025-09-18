@@ -90,6 +90,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nixos/original.svg" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/kotlin/original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
 </div>
 
 ###
