@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ideas Pendientes
+- [Nombre-Proyecto](https://github.com/Spectro451/Nombre-Proyecto)
 
-<!--
-**Spectro451/Spectro451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyectos en proceso
+- [KiwiPets (app de adopcion)](https://github.com/Spectro451/KiwiPetsBackEnd)
+- [Prototipo-Pagina-Mangas](https://github.com/Spectro451/Prototipo-Pagina-Mangas)
+- [Mi-primera-pagina](https://github.com/Spectro451/Mi-primera-pagina)
+- [Calculadora-c](https://github.com/Spectro451/Calculadora-c)
+- [Pokedex](https://github.com/Spectro451/Pokedex)
+- [Pagina-Mangas-OG](https://github.com/Spectro451/Pagina-Mangas-OG)
 
-Here are some ideas to get you started:
+## Proyectos terminados
+- [NixOs-Dots](https://github.com/Spectro451/NixOs-Dots)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos que me gustaría mejorar
+- [NixOs-Dots](https://github.com/Spectro451/NixOs-Dots)
