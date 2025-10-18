@@ -22,8 +22,6 @@
       </td>
       <td style="vertical-align:top; padding:12px; border:1px solid #e1e4e8;">
         <ul>
-          <li><a href="https://github.com/Spectro451/KiwiPets" style="text-decoration:none; color:black;">KiwiPets</a></li>
-          <li><a href="https://github.com/Spectro451/KiwiPetsBackEnd" style="text-decoration:none; color:inherit;">BackEnd para KiwiPets</a></li>
           <li>
             <a href="https://github.com/Spectro451/Introduccion-Nextjs" style="text-decoration:none; color:inherit;">Curso NextJs</a>
           </li>
@@ -48,6 +46,12 @@
           </li>
           <li>
             <a href="https://github.com/Spectro451/Mi-primera-pagina" style="text-decoration:none; color:inherit;">Mi Primera Pagina</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/KiwiPets" style="text-decoration:none; color:black;">KiwiPets</a>
+          </li>
+          <li>
+            <a href="https://github.com/Spectro451/KiwiPetsBackEnd" style="text-decoration:none; color:inherit;">BackEnd para KiwiPets</a>
           </li>
         </ul>
       </td>
