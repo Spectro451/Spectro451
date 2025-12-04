@@ -24,7 +24,9 @@
         <ul>
           <li>
             <a href="https://github.com/Spectro451/Introduccion-Nextjs" style="text-decoration:none; color:inherit;">Curso NextJs</a>
-            <a href="https://github.com/Spectro451/imperioPlay" style="text-decoration:none; color:inherit;">imperioPlay</a>
+          </li>
+           <li>
+          <a href="https://github.com/Spectro451/imperioPlay" style="text-decoration:none; color:inherit;">imperioPlay</a>
           </li>
         </ul>
       </td>
