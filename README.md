@@ -2,7 +2,7 @@
 
 ### Fullstack Developer
 
-Soy un desarrollador que crea sistemas completos — del frontend al backend, de la base de datos al despliegue.  
+Soy un desarrollador de software especializado en construir sistemas completos, desde la arquitectura hasta la interfaz del usuario
 Trabajo con tecnologías consolidadas y modernas según lo que el proyecto necesita.  
 Me centro en código limpio, arquitecturas que escalan y sistemas que duran.
 
