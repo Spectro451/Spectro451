@@ -2,9 +2,9 @@
 
 ### Fullstack Developer
 
-Soy un desarrollador de software especializado en construir sistemas completos, desde la arquitectura hasta la interfaz del usuario
-Trabajo con tecnologías consolidadas y modernas según lo que el proyecto necesita.  
-Me centro en código limpio, arquitecturas que escalan y sistemas que duran.
+<p>Soy un desarrollador de software especializado en construir sistemas completos, desde la arquitectura hasta la interfaz del usuario.</p>
+<p>Trabajo con tecnologías consolidadas y modernas según lo que el proyecto necesita.</p>
+<p>Me centro en código limpio, arquitecturas que escalan y sistemas que duran.</p>
 
 </div>
 
